@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dentist-assignment/static/css/main.d0970c08.css",
+    "main.js": "/dentist-assignment/static/js/main.cfde8e1e.js",
+    "index.html": "/dentist-assignment/index.html",
+    "main.d0970c08.css.map": "/dentist-assignment/static/css/main.d0970c08.css.map",
+    "main.cfde8e1e.js.map": "/dentist-assignment/static/js/main.cfde8e1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0970c08.css",
+    "static/js/main.cfde8e1e.js"
+  ]
+}
