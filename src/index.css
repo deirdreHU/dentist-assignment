@@ -8,6 +8,7 @@ ul.procedures {
   flex-direction: column;
   list-style: bullet;
 }
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
